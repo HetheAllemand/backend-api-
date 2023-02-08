@@ -1,0 +1,10 @@
+# activate virtual env
+# win:
+venv\Scripts\activate
+
+deactivate virtual env
+deactivate
+
+
+#install module / package (flask) 
+python -m pip install <package>
